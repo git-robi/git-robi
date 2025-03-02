@@ -16,7 +16,7 @@ Welcome to my GitHub! This is where I throw all my projects—some from 42 Barce
 Now that you're here, might as well explore, right? 😉 **Happy coding!** 🚀
 
 <p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVkemMzNWNzemF3cGt1MXV6YzlpaWdsOHBtb2w2eDY3YjlheW05cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)" alt="Cat GIF" width="150">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVkemMzNWNzemF3cGt1MXV6YzlpaWdsOHBtb2w2eDY3YjlheW05cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif](https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" alt="Cat GIF" width="150">
 </p>
 
 

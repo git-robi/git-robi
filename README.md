@@ -2,7 +2,7 @@
 
   <h2>So, you typed <code>git robi</code>...</h2>
 
-![cat_typing](https://github.com/user-attachments/assets/9d7a062b-1d23-4cf5-92d4-9dd6ff1b2791)
+![cat_typing-ezgif com-resize](https://github.com/user-attachments/assets/8b47d889-24e4-4149-903f-df8e27359ed3)
 
 ...and here you are!
 Welcome to my GitHub! This is where I throw all my projects—some from 42 Barcelona, where I'm currently studying, and others from my random coding adventures.

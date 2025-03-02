@@ -1,4 +1,5 @@
-<div align=center>❯## So, you typed `git robi`... 
+<div align=center>
+## So, you typed `git robi`... 
 
 ...and here you are!
 Welcome to my GitHub! This is where I throw all my projects—some from 42 Barcelona, where I'm currently studying, and others from my random coding adventures.

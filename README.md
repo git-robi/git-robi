@@ -31,5 +31,5 @@ Welcome to my GitHub! This is where I throw all my projects—some from 42 Barce
 </p>
 
 
-Now that you're here, might as well explore, right? 😉 **Happy coding!** 🚀</div>
+Now that you're here, might as well explore and connect, right? 😉 </div>
 

@@ -2,6 +2,8 @@
 
   <h2>So, you typed <code>git robi</code>...</h2>
 
+![cat_typing](https://github.com/user-attachments/assets/9d7a062b-1d23-4cf5-92d4-9dd6ff1b2791)
+
 ...and here you are!
 Welcome to my GitHub! This is where I throw all my projects—some from 42 Barcelona, where I'm currently studying, and others from my random coding adventures.
 

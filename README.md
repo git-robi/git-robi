@@ -16,7 +16,7 @@ Welcome to my GitHub! This is where I throw all my projects—some from 42 Barce
 Now that you're here, might as well explore, right? 😉 **Happy coding!** 🚀
 
 <p align="right">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Funny Coding GIF" width="150">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Funny Coding GIF" width="200">
 </p>
 
 

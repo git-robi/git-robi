@@ -17,5 +17,7 @@ Welcome to my GitHub! This is where I throw all my projects—some from 42 Barce
 **School projects** – because debugging C at 3 AM is a rite of passage  
 **Side projects** – where I experiment, break things, and (hopefully) learn new stuff  
 
+
+
 Now that you're here, might as well explore, right? 😉 **Happy coding!** 🚀</div>
 

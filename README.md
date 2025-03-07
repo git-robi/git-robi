@@ -17,7 +17,7 @@ Welcome to my GitHub! This is where I throw all my projects—some from 42 Barce
 **School projects** – because debugging C at 3 AM is a rite of passage  
 **Side projects** – where I experiment, break things, and (hopefully) learn new stuff  
 
-## 🛠️ Tech Stack (wip)
+## 🛠️ wip: Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>

@@ -7,7 +7,7 @@
 ...and here you are!
 Welcome to my GitHub! This is where I throw all my projects—some from 42 Barcelona, where I'm currently studying, and others from my random coding adventures.
 
-## 🌱 About me  
+## About me  
 Learning C and C++ at **42 Barcelona**, dreaming of becoming a **Software Engineer**  
 Exploring **JavaScript, TypeScript, APIs, and databases** in my free time  
 Super curious about **AI and tech** in general  

@@ -8,7 +8,7 @@
 Welcome to my GitHub! This is where I throw all my projects, some from 42 Barcelona and others from my random coding adventures.
 
 ## About me  
-I studied computer science at 42 Barcelona, dreaming of becoming a **Software Engineer**  
+I studied computer science at 42 Barcelona, dreaming of becoming a **Software Developer**  
 Now I full-time work as a Full Stack Developer in Milan! 
 
 ## What you’ll find here  
